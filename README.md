@@ -5,4 +5,10 @@
 
 有兴趣可以去该项目下详细研究
 
+数据集搭建
+mkdir data
+cd data
+mkdir test
+mkdir train
+将数据放入对应文件夹即可
 
